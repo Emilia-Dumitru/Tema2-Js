@@ -10,7 +10,7 @@ even_numbers(10);
 //Tipăriți toate numerele impare  de la 0 la 10
 
 //Method 1
-function even_numbers (n){
+function even_numbers(n) {
     for (let i=0; i<=n; i++){
         if (i%2 !==0) {
             console.log(i);
